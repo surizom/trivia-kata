@@ -1,9 +1,3 @@
-# js-kata-starter
+# trivia
 
-Starter project for kata (Node, TypeScript, Jest)
-
-## Getting started
-
-- **Fork**, then clone the repository
-- Install dependencies
-- Start developing (`npm test`)
+The famous Trivia kata, inspired by https://github.com/jbrains/trivia.

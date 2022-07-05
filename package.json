@@ -9,7 +9,8 @@
     "format": "prettier --write \"src/**/*.ts\""
   },
   "dependencies": {
-    "jest-extended": "^2.0.0"
+    "jest-extended": "^2.0.0",
+    "jest-golden-master": "^0.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.16.7",

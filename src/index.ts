@@ -94,6 +94,17 @@ export class Game {
   }
 
   private currentCategory(): string {
+    // const CATEGORY_MODULO = {
+    //   0: "Pop",
+    //   1: "Science",
+    //   2: "Rock",
+    //   3: "Sports",
+    // };
+
+    // const placeCategoryModulo = this.places[this.currentPlayer] % 4;
+
+    // return CATEGORY_MODULO[placeCategoryModulo];
+
     if (this.places[this.currentPlayer] == 0) return "Pop";
     if (this.places[this.currentPlayer] == 4) return "Pop";
     if (this.places[this.currentPlayer] == 8) return "Pop";

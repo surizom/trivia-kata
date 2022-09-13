@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "jest-extended": "^2.0.0",
-    "jest-golden-master": "^0.0.1"
+    "jest-golden-master": "^0.0.3"
   },
   "devDependencies": {
     "@babel/core": "^7.16.7",
